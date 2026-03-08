@@ -1,5 +1,5 @@
 
-# Customer Purchase Behavior Analysis
+# Customer Purchase Behavior Analysis (Using RFM segmentation)
 
 ## Project Overview
 
